@@ -74,7 +74,9 @@ fun NoteItem(
                 overflow = TextOverflow.Ellipsis
             )
         }
-        IconButton(onClick = { }, modifier = Modifier.align(Alignment.BottomEnd)) {
+        IconButton(onClick = {
+
+        }, modifier = Modifier.align(Alignment.BottomEnd)) {
             Icon(imageVector = Icons.Default.Delete, contentDescription = "Delete Note")
         }
     }
