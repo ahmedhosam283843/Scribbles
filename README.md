@@ -19,9 +19,8 @@ Credits
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62101039/227811464-a9477c83-beb4-4354-b53c-3daaceb645d3.png" alt="app preview" width="269px" />
-<img src="https://user-images.githubusercontent.com/62101039/227811467-baf57094-cacd-428d-8700-3d5604a44fda.png" alt="create note" width="270px" />
 <img src="https://user-images.githubusercontent.com/62101039/227811469-d613d963-cadf-4f40-b57b-c34c1a3d7638.png" alt="order by" width="270px" />
-
+<img src="https://user-images.githubusercontent.com/62101039/227811467-baf57094-cacd-428d-8700-3d5604a44fda.png" alt="create note" width="270px" />
 </br>
 </p>
 
