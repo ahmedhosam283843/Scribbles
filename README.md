@@ -1,4 +1,4 @@
-# NoteApp
+# Scribbles
 This is a simple Note Application that uses Jetpack Compose for the user interface. The app allows you to create, read, update, and delete notes, as well as search for notes.
 
 ## Architecture
@@ -29,4 +29,4 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## 📝 License
 Copyright © 2023 [Ahmed Hosam](https://github.com/ahmedhosam283843). <br />
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahmedhosam283843/NoteApp/blob/master/LICENCE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahmedhosam283843/Scribbles/blob/master/LICENCE) file for more information.
